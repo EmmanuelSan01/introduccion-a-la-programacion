@@ -1,7 +1,7 @@
 Proceso HASTA_positivo
 		Repetir
-			Escribir 'Ingrese un numero'
+			Escribir 'Ingrese un número'
 			Leer num
 		Hasta Que num>0
-		Escribir 'Numero valido'
+		Escribir 'Número válido'
 FinProceso

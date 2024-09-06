@@ -3,11 +3,11 @@ Proceso HASTA_suma_par_50
 	//El programa debe ignorar los numero impares.
 	sum=0
 	Repetir
-		Escribir 'Ingrese un numero'	
+		Escribir 'Ingrese un número'	
 		Leer num
 		Si num%2=0 Entonces
 			sum=sum+num
 		Fin Si
 	Hasta Que sum>=50
-	Escribir 'El resultado de la suma de los numeros pares es: ',sum
+	Escribir 'El resultado de la suma de los números pares es: ',sum
 FinProceso
